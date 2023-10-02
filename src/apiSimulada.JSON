@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Razer BlackWidow V3 Pro",
+    "description": "Teclas de doble inyección plástica, teclas que no se borran con el uso, retroiluminación RGB",
+    "price": "99",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_118373193_2074389_1?wid=800&hei=800&qlt=70",
+    "id": "37",
+    "category": "Teclado"
+  },
+  {
+    "name": "Hp GK100",
+    "description": "Ilumine su toque la retroiluminación LED, los interruptores mecánicos rojos no solo ofrecen la experiencia de pulsación de teclas más suave, sino que además le permiten tomar medidas rápidas en silencio.",
+    "price": "199.99",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_115760748_1261271_1?wid=800&hei=800&qlt=70",
+    "id": "52",
+    "category": "Teclado"
+  },
+  {
+    "name": "Redragon Kumara k552",
+    "description": "Tipo de switches: intercambiables Outemu blue MK2, táctil con click audible, fuerza de actuación 50 g ABS reforzado y placa de acero. USB enchapado en oro y filtro anti-interferencias",
+    "price": "209",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_114059349_857115_1?wid=800&hei=800&qlt=70",
+    "id": "19",
+    "category": "Teclado"
+  },
+  {
+    "name": "Micronics Vanquish FK-1003 ",
+    "description": "Macros asignables en teclas, incluye Reposa muñecas plegable y desmontable.",
+    "price": "249",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120604951_2733752_1?wid=800&hei=800&qlt=70",
+    "id": "65",
+    "category": "Teclado"
+  },
+  {
+    "name": "K100 RGB — Interruptor CORSAIR OPX",
+    "description": "Teclado mecánico con retroiluminación personalizable y reposamuñecas.",
+    "price": "1075",
+    "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Keyboards/CH-912A01A-NA/Gallery/K100_RGB_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "id": "43",
+    "category": "Teclado"
+  },
+  {
+    "name": "EKSA HEADPHONES E700 WIRED",
+    "description": "los auriculares para juegos EKSA E7000 están diseñados con almohadillas para los oídos más grandes, más profundas y más suaves que se adaptan a las gafas y se adaptan perfectamente a sus oídos, lo que le permite jugar durante horas sin sentirse agobiado por sus auriculares",
+    "price": "113",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/116339689_1?wid=800&hei=800&qlt=70",
+    "id": "74",
+    "category": "Audifonos"
+  },
+  {
+    "name": "Antryx CS GH-530 2.1",
+    "description": " Estéreo de 3,5 mm + Adaptador 3,5 mm micrófono integrado",
+    "price": "114",
+    "image": "https://hiraoka.com.pe/media/catalog/product/1/2/121880.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+    "id": "86",
+    "category": "Audifonos"
+  },
+  {
+    "name": "Corsair HS80",
+    "description": "Disfrute de horas de comodidad gracias a las almohadillas de espuma viscoelástica con tela transpirable.",
+    "price": "140",
+    "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Accessories-Parts/CA-9011308-WW/Gallery/CA-9011308-WW_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "id": "91",
+    "category": "Audifonos"
+  },
+  {
+    "name": "Astro A50 Auriculares Wireless",
+    "description": "Mejora tu nivel de juego con los auriculares inalámbricos para juegos ASTRO Gaming A50 de color negro y gris . Diseñado para usarse con computadoras Windows y Mac o la consola PS4, cuenta con controladores de 40 mm sintonizados con ASTRO Audio V2 para brindar un sonido claro y detallado en frecuencias amplias y niveles de volumen. Puede decodificar el audio Dolby Atmos cuando se usa con su consola o computadora con Windows y está equipado con un micrófono boom unidireccional que se puede silenciar simplemente volteándolo hacia arriba. El A50 tiene un alcance inalámbrico de 30 'desde la estación base incluida y tiene una duración de batería de hasta 15 horas.",
+    "price": "1,209",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_115828682_1266193_1?wid=800&hei=800&qlt=70",
+    "id": "68",
+    "category": "Audifonos"
+  },
+  {
+    "name": "HS65 SURROUND",
+    "description": "Los controladores de audio de neodimio de 50 mm, de alta calidad y ajustados a medida, ofrecen un sonido excelente con el rango necesario para oírlo todo en el campo de batalla. El adaptador USB incluido crea una experiencia de sonido envolvente multicanal Dolby Audio 7.1 para que siempre esté en el medio de la acción.",
+    "price": "359",
+    "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Headsets/CA-9011270-EU/Gallery/CA-9011270-EU_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "id": "67",
+    "category": "Audifonos"
+  },
+  {
+    "name": "MICRONICS WINNER M802",
+    "description": "Mouse Óptico Gamer RGB de 7 Botones.",
+    "price": "24.90",
+    "image": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_118404924_2090989_1?wid=800&hei=800&qlt=70",
+    "id": "23",
+    "category": "Mouse"
+  },
+  {
+    "name": "Inferno MIC M816 USB RGB 7B 3200DPI",
+    "description": " DPI Graduable Hasta 7200.",
+    "price": "49",
+    "image": "https://logitechar.vtexassets.com/arquivos/ids/158874-800-800?v=637922945335770000&width=800&height=800&aspect=true",
+    "id": "48",
+    "category": "Mouse"
+  },
+  {
+    "name": "MOUSE GAMER CORSAIR M65 RGB ELITE 18K DPI BLANCO",
+    "description": "Ratón ultraligero con sensor óptico de 18,000 DPI y retroiluminación RGB.",
+    "price": "265",
+    "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1886%2FELECTROHOGAR%2FCH-9309111-NA-Corsair-Mouse-M65-RGB-Elite-cableado-blanco_1_193747559749_31.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=463d4ca99525e055ff664ac1f0f1fcd9",
+    "id": "12",
+    "category": "Mouse"
+  },
+  {
+    "name": "Ratón óptico Scimitar RGB MOBA/MMO",
+    "description": "El ratón óptico para juegos Scimitar RGB revoluciona el sector con su sistema de control Key Slider™, sus 12 botones mecánicos laterales y su sensor óptico de 12.000 DPI a prueba de profesionales. Construido específicamente para ofrecer la experiencia de juego MOBA/MMO definitiva.",
+    "price": "400",
+    "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Mice/CH-9000231-NA/Gallery/Scimitar_PRO_BLK_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "id": "101",
+    "category": "Mouse"
+  },
+  {
+    "name": "Ratón para juegos inalámbrico DARK CORE RGB PRO SE",
+    "description": "El ratón para juegos CORSAIR DARK CORE RGB SE usa una conexión inalámbrica ultrarrápida de 2,4 GHz y 1 ms, carga inalámbrica Qi y un sensor óptico de 18.000 ppp para disfrutar de un auténtico juego inalámbrico.",
+    "price": "477",
+    "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Mice/CH-9315511-EU/Gallery/DARK_CORE_RGB_PRO_SE_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "id": "81",
+    "category": "Mouse"
+  },
+  {
+    "name": "Teros TE-3132 Panel IPS",
+    "description": "Mira todo con lujo de detalle, gracias al monitor curvo gamer Teros TE-3132 de 24 pulgadas con panel IPS y resolución Full HD.",
+    "price": "759",
+    "image": "https://coolboxpe.vtexassets.com/arquivos/ids/232784-800-auto?v=638007532448570000&width=800&height=auto&aspect=true",
+    "id": "15",
+    "category": "Monitor"
+  },
+  {
+    "name": "Monitor gamer 27 Acer XB273 Panel IPS",
+    "description": "Con una resolución Full HD, el equipo te dejará impactado con los detalles de las imágenes que reproduzca. La tasa de refresco es de 144 Hz, tiempo de respuesta de 1 ms y brillo 400 cd/m².",
+    "price": "1,699",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/ar/lc49g95tsslxzb/gallery/ar-odyssey-g9-lc49g95tsslxzb-532365028?$720_576_PNG$",
+    "id": "29",
+    "category": "Monitor"
+  },
+  {
+    "name": "Monitor curvo gamer 31.5 MSI OPTIXG32C4 Panel VA",
+    "description": "Monitor gaming 4K HDR de 27 pulgadas con G-Sync y 144 Hz.",
+    "price": "1,299",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_866319-MLA31598111104_072019-O.webp",
+    "id": "51",
+    "category": "Monitor"
+  },
+  {
+    "name": "Monitor Asrock Phantom",
+    "description": "MONITOR CURVED GAMING DE 34' 165HZ TIEMPO DE RESPUESTA 1MS RESOLUCION WQHD 3440x1440 91% DCI-P3 SRGB 115% AMD FREESYNC PREMIUM TECHNOLOGY 2 X HDMI 2.0 DISPLAYPORT 1.4.",
+    "price": "1199.99",
+    "image": "https://coolboxpe.vtexassets.com/arquivos/ids/275145-800-auto?v=638212364359170000&width=800&height=auto&aspect=true",
+    "id": "76",
+    "category": "Monitor"
+  },
+  {
+    "name": "CORSAIR XENEON 32QHD165",
+    "description": "El CORSAIR XENEON da vida a los juegos y contenidos multimedia en una pantalla IPS QHD 2560 x1440 superfina y brillante de 32 pulgadas con una frecuencia de actualización increíblemente rápida de hasta 165 Hz y un tiempo de respuesta de 1 ms.",
+    "price": "999.99",
+    "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Monitors/CM-9020001-PE/Gallery/XENEON_32QHD165_Gaming_Monitor_RENDER_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+    "id": "38",
+    "category": "Monitor"
+  }
+]
