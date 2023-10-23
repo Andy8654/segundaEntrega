@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { filterProducts } from "../services/products";
 export const useProductByCategory = () => {
-  const [product, setProduct] = useState([]);
+  const [product, setProduct] = useState({});
   const [loading, setLoading] = useState(true);
   useEffect(() => {
     setInterval(() => {

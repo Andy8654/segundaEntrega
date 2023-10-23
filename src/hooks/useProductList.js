@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { getProducts } from "../services/products";
 
 export const useProductList = () => {
-  const [product, setProduct] = useState([]);
+  const [product, setProduct] = useState({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
